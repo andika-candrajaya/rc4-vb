@@ -1,5 +1,8 @@
 # rc4-vb
 RC4 basics using VB
 
-# Usage
+## Requirements
+Visual Studio 2010 or later
+
+## Usage
 implement usage here
